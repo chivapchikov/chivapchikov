@@ -1,6 +1,6 @@
 # Hi there / Привет 👋
 
-## My contacts (in priority order):
+## My contacts:
 <a href="https://t.me/chivapchikov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff"/></a>
 <a href="https://guns.lol/kwents"><img alt="Discord" src="https://img.shields.io/badge/@kwentszq-404EED?style=for-the-badge&logo=discord&logoColor=fff"/></a>
 

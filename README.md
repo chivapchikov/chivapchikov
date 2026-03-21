@@ -62,7 +62,7 @@ status: coding something rn...
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@chivapchikov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chivapchikov)
-[![Discord](https://img.shields.io/badge/Discord-@kwentszq-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://guns.lol/kwents)
+[![Discord](https://img.shields.io/badge/Discord-@chivapchikov-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://guns.lol/kwents)
 
 </div>
 

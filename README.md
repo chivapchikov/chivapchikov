@@ -9,13 +9,11 @@
 ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+kwents+%F0%9F%91%8B;15+y%2Fo+developer;Java+%7C+Kotlin+%7C+Python;Building+stuff+that+matters" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+kwents+%F0%9F%91%8B;16+y%2Fo+developer;Java+%7C+Kotlin+%7C+Python;Building+stuff+that+matters" alt="Typing SVG" />
 
 </div>
 
 ---
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" />
 
 ### `$ whoami`
 
@@ -29,11 +27,15 @@ languages:
 status: coding something rn...
 ```
 
-<br clear="right"/>
-
 ---
 
 ### `$ ls ./tech-stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,py,git,github,linux,idea,vscode&theme=dark" />
+
+</div>
 
 <div align="center">
 
@@ -47,13 +49,53 @@ status: coding something rn...
 
 ---
 
-### `$ cat ./activity.log`
+### `$ cat ./github-stats`
+
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" width="100%"/>
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=chivapchikov&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff99&ring=00ff99&fire=ff6e00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff99&sideLabels=00ff99&dates=8b949e" />
 
 </div>
+
+---
+
+### `$ cat ./trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chivapchikov&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+### `$ tail -f ./activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chivapchikov&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff" width="100%"/>
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -67,12 +109,6 @@ status: coding something rn...
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chivapchikov&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff" />
-
-</div>
 
 <div align="center">
 

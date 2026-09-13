@@ -33,17 +33,17 @@ status: coding something rn...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,py,git,github,linux,idea,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,rust,py,git,github,linux,idea,vscode&theme=dark" />
 
 </div>
 
+---
+
+### `$ cat ./current-project`
+
 <div align="center">
 
-| Language | Level | Vibe |
-|----------|-------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** | ██████████ | Main weapon |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20"/> **Kotlin** | ████████░░ | Java but cooler |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** | ███████░░░ | Scripting & tools |
+[![SpyChecker-ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=chivapchikov&repo=SpyChecker-ReverseCode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9)](https://github.com/chivapchikov/SpyChecker-ReverseCode)
 
 </div>
 

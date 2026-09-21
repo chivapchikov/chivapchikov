@@ -1,121 +1,31 @@
 <div align="center">
-
-```
-██╗  ██╗██╗    ██╗███████╗███╗   ██╗████████╗███████╗
-██║ ██╔╝██║    ██║██╔════╝████╗  ██║╚══██╔══╝██╔════╝
-█████╔╝ ██║ █╗ ██║█████╗  ██╔██╗ ██║   ██║   ███████╗
-██╔═██╗ ██║███╗██║██╔══╝  ██║╚██╗██║   ██║   ╚════██║
-██║  ██╗╚███╔███╔╝███████╗██║ ╚████║   ██║   ███████║
-╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+kwents+%F0%9F%91%8B;16+y%2Fo+developer;Java+%7C+Kotlin+%7C+Python;Building+stuff+that+matters" alt="Typing SVG" />
-
+⁠kwents⁠
+Telegram
+Discord
 </div>
-
----
-
-### `$ whoami`
-
-```yaml
-name: kwents
-age: 16
-pronouns: he/him
-languages:
-  - Russian 🇷🇺
-  - English 🇬🇧
-status: coding something rn...
-```
-
----
-
-### `$ ls ./tech-stack`
-
+$ whoami
+$ stack
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,rust,py,git,github,linux,idea,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=rust,java,kotlin,py,linux,git,idea,vscode&theme=dark" alt="Tech Stack" />
 </div>
-
----
-
-### `$ cat ./current-project`
-
+$ pinned-project
 <div align="center">
-
-[![SpyChecker-ReverseCode](https://github-readme-stats.vercel.app/api/pin/?username=chivapchikov&repo=SpyChecker-ReverseCode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9)](https://github.com/chivapchikov/SpyChecker-ReverseCode)
-
+SpyChecker-ReverseCode
 </div>
-
----
-
-### `$ cat ./github-stats`
-
+$ metrics
 <div align="center">
 <table>
 <tr>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" width="100%"/>
-
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=8b949e&rank_icon=github" width="100%" alt="GitHub Stats" />
 </td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" width="100%"/>
-
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=8b949e" width="100%" alt="Top Languages" />
 </td>
 </tr>
 </table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chivapchikov&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_title=true" width="100%" alt="Activity Graph" />
 </div>
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chivapchikov&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff99&ring=00ff99&fire=ff6e00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff99&sideLabels=00ff99&dates=8b949e" />
-
-</div>
-
----
-
-### `$ cat ./trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chivapchikov&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</div>
-
----
-
-### `$ tail -f ./activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chivapchikov&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff" width="100%"/>
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### `$ ping ./contacts`
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@chivapchikov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chivapchikov)
-[![Discord](https://img.shields.io/badge/Discord-@chivapchikov-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://guns.lol/kwents)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> keep grinding. stay curious. ship code. 🚀
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=chivapchikov&color=00ff99&style=flat-square&label=profile+views)
-
+<sub>Engineered with precision. All systems operational.</sub>
 </div>

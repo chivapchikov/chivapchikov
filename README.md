@@ -1,31 +1,73 @@
 <div align="center">
-⁠kwents⁠
-Telegram
-Discord
+
+# kwents
+
+**16 y/o developer · Java · Kotlin · Python · Rust**
+
+*Reverse engineering, tooling, and things that work.*
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff99)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=00ff99)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff99)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00ff99)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff99)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff99)
+
 </div>
-$ whoami
-$ stack
+
+<br>
+
+## About
+
+| | |
+|---|---|
+| **Name** | kwents |
+| **Age** | 16 |
+| **Languages** | Russian, English |
+| **Focus** | JVM development, reverse engineering, low-level tooling |
+| **Learning** | Rust, systems programming |
+| **Status** | Building something right now |
+
+<br>
+
+## Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | Java, Kotlin, Python, Rust |
+| **IDE / Editors** | IntelliJ IDEA, VS Code |
+| **Environment** | Linux, Git, GitHub |
+
+<br>
+
+## Featured project
+
+### [SpyChecker-ReverseCode](https://github.com/chivapchikov/SpyChecker-ReverseCode)
+
+Reverse engineering and analysis project. Clean code, clear structure, documented findings.
+
+<br>
+
+## Principles
+
+- Write code that is readable first, clever second.
+- Ship small, iterate fast.
+- Understand how it works before using it.
+- Consistency beats motivation.
+
+<br>
+
+## Contacts
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=rust,java,kotlin,py,linux,git,idea,vscode&theme=dark" alt="Tech Stack" />
-</div>
-$ pinned-project
-<div align="center">
-SpyChecker-ReverseCode
-</div>
-$ metrics
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=8b949e&rank_icon=github" width="100%" alt="GitHub Stats" />
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=8b949e" width="100%" alt="Top Languages" />
-</td>
-</tr>
-</table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chivapchikov&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_title=true" width="100%" alt="Activity Graph" />
-</div>
-<div align="center">
-<sub>Engineered with precision. All systems operational.</sub>
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff99)](https://t.me/chivapchikov)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff99)](https://guns.lol/kwents)
+
+<br>
+
+`keep grinding · stay curious · ship code`
+
 </div>

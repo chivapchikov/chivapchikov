@@ -2,7 +2,7 @@
 
 # kwents
 
-**16 y/o developer · Java · Kotlin · Python · Rust**
+**JVM developer · reverse engineering · low-level tooling**
 
 *Reverse engineering, tooling, and things that work.*
 
@@ -19,38 +19,47 @@
 
 <br>
 
-## About
+## 👋 About
+
+I'm a 16-year-old developer from the Russian-speaking side of the internet (RU / EN).
+I like taking things apart to see how they work, then building tools around what I learn.
+
+- 🔭 **Focus:** JVM development, reverse engineering, low-level tooling
+- 🌱 **Learning:** Rust and systems programming
+- ⚙️ **Right now:** building something new
+
+<br>
+
+## 🧰 Stack
 
 | | |
 |---|---|
-| **Name** | kwents |
-| **Age** | 16 |
-| **Languages** | Russian, English |
-| **Focus** | JVM development, reverse engineering, low-level tooling |
-| **Learning** | Rust, systems programming |
-| **Status** | Building something right now |
+| **Languages** | Java · Kotlin · Python · Rust |
+| **Tools** | IntelliJ IDEA · VS Code |
+| **Environment** | Linux · Git · GitHub |
 
 <br>
 
-## Stack
-
-| Category | Tools |
-|---|---|
-| **Languages** | Java, Kotlin, Python, Rust |
-| **IDE / Editors** | IntelliJ IDEA, VS Code |
-| **Environment** | Linux, Git, GitHub |
-
-<br>
-
-## Featured project
+## 📌 Featured project
 
 ### [SpyChecker-ReverseCode](https://github.com/chivapchikov/SpyChecker-ReverseCode)
 
-Reverse engineering and analysis project. Clean code, clear structure, documented findings.
+Reverse engineering and analysis project: clean code, clear structure, documented findings.
 
 <br>
 
-## Principles
+## 📊 GitHub stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=transparent&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=transparent&title_color=00ff99&text_color=c9d1d9&hide_border=true)
+
+</div>
+
+<br>
+
+## 🧭 Principles
 
 - Write code that is readable first, clever second.
 - Ship small, iterate fast.
@@ -59,7 +68,7 @@ Reverse engineering and analysis project. Clean code, clear structure, documente
 
 <br>
 
-## Contacts
+## 📬 Contacts
 
 <div align="center">
 

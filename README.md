@@ -1,82 +1,95 @@
 <div align="center">
 
-# kwents
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff99&height=160&section=header&text=kwents&fontSize=54&fontColor=00ff99&fontAlignY=38&desc=JVM%20·%20reverse%20engineering%20·%20low-level%20tooling&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-**JVM developer · reverse engineering · low-level tooling**
-
-*Reverse engineering, tooling, and things that work.*
+<a href="https://github.com/chivapchikov">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=520&lines=%24+whoami;taking+things+apart+to+see+how+they+work;then+building+tools+around+them;keep+grinding+%C2%B7+stay+curious+%C2%B7+ship+code" alt="typing"/>
+</a>
 
 <br>
 
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff99)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=00ff99)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff99)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00ff99)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff99)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff99)
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff99"/>
 
 </div>
 
-<br>
+---
 
-## 👋 About
+### `~/about`
 
-I'm a 16-year-old developer from the Russian-speaking side of the internet (RU / EN).
-I like taking things apart to see how they work, then building tools around what I learn.
+```yaml
+name:      kwents
+age:       16
+langs:     [RU, EN]
+focus:     JVM development · reverse engineering · low-level tooling
+learning:  Rust · systems programming
+now:       building something new
+```
 
-- 🔭 **Focus:** JVM development, reverse engineering, low-level tooling
-- 🌱 **Learning:** Rust and systems programming
-- ⚙️ **Right now:** building something new
+### `~/stack`
 
-<br>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,kotlin,python,rust&theme=dark" height="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" height="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Environment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" height="36"/>
+    </td>
+  </tr>
+</table>
 
-## 🧰 Stack
+### `~/featured`
 
-| | |
-|---|---|
-| **Languages** | Java · Kotlin · Python · Rust |
-| **Tools** | IntelliJ IDEA · VS Code |
-| **Environment** | Linux · Git · GitHub |
+<a href="https://github.com/chivapchikov/SpyChecker-ReverseCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chivapchikov&repo=SpyChecker-ReverseCode&theme=transparent&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_color=30363d" alt="SpyChecker-ReverseCode"/>
+</a>
 
-<br>
+> Reverse engineering and analysis: clean code, clear structure, documented findings.
 
-## 📌 Featured project
-
-### [SpyChecker-ReverseCode](https://github.com/chivapchikov/SpyChecker-ReverseCode)
-
-Reverse engineering and analysis project: clean code, clear structure, documented findings.
-
-<br>
-
-## 📊 GitHub stats
+### `~/stats`
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=transparent&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=transparent&title_color=00ff99&text_color=c9d1d9&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chivapchikov&show_icons=true&theme=transparent&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_color=30363d&hide_rank=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivapchikov&layout=compact&theme=transparent&title_color=00ff99&text_color=c9d1d9&border_color=30363d"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chivapchikov&bg_color=0d1117&color=c9d1d9&line=00ff99&point=00ff99&area=true&area_color=00ff99&hide_border=true"/>
 
 </div>
 
-<br>
+### `~/principles`
 
-## 🧭 Principles
+```diff
++ readable first, clever second
++ ship small, iterate fast
++ understand how it works before using it
++ consistency beats motivation
+```
 
-- Write code that is readable first, clever second.
-- Ship small, iterate fast.
-- Understand how it works before using it.
-- Consistency beats motivation.
-
-<br>
-
-## 📬 Contacts
+### `~/contact`
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff99)](https://t.me/chivapchikov)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff99)](https://guns.lol/kwents)
+<a href="https://t.me/chivapchikov"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff99"/></a>
+<a href="https://guns.lol/kwents"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff99"/></a>
 
-<br>
+<br><br>
 
-`keep grinding · stay curious · ship code`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
